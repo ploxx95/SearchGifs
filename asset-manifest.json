@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ploxx95/SearchGifs/static/css/main.1061970c.chunk.css",
+    "main.js": "/ploxx95/SearchGifs/static/js/main.a153419d.chunk.js",
+    "main.js.map": "/ploxx95/SearchGifs/static/js/main.a153419d.chunk.js.map",
+    "runtime-main.js": "/ploxx95/SearchGifs/static/js/runtime-main.352793b4.js",
+    "runtime-main.js.map": "/ploxx95/SearchGifs/static/js/runtime-main.352793b4.js.map",
+    "static/css/2.2ce0d9b2.chunk.css": "/ploxx95/SearchGifs/static/css/2.2ce0d9b2.chunk.css",
+    "static/js/2.24ad754c.chunk.js": "/ploxx95/SearchGifs/static/js/2.24ad754c.chunk.js",
+    "static/js/2.24ad754c.chunk.js.map": "/ploxx95/SearchGifs/static/js/2.24ad754c.chunk.js.map",
+    "index.html": "/ploxx95/SearchGifs/index.html",
+    "precache-manifest.36050cda5f41cde41e7ce237c1a33af9.js": "/ploxx95/SearchGifs/precache-manifest.36050cda5f41cde41e7ce237c1a33af9.js",
+    "service-worker.js": "/ploxx95/SearchGifs/service-worker.js",
+    "static/css/2.2ce0d9b2.chunk.css.map": "/ploxx95/SearchGifs/static/css/2.2ce0d9b2.chunk.css.map",
+    "static/css/main.1061970c.chunk.css.map": "/ploxx95/SearchGifs/static/css/main.1061970c.chunk.css.map",
+    "static/js/2.24ad754c.chunk.js.LICENSE.txt": "/ploxx95/SearchGifs/static/js/2.24ad754c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.352793b4.js",
+    "static/css/2.2ce0d9b2.chunk.css",
+    "static/js/2.24ad754c.chunk.js",
+    "static/css/main.1061970c.chunk.css",
+    "static/js/main.a153419d.chunk.js"
+  ]
+}
